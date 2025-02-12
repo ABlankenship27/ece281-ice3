@@ -26,6 +26,8 @@ Assert statements of other severity levels will be reported, but not fail the wo
 
 ![Ripple Adder test bench waveform](Waveform.png)
 
+![Basys 3 board sketch](Basys3Sketch.jpg)
+
 ## Documentation 
 
 No help revieved.
